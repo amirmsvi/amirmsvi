@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on 3 personal project. my strong suite is UI and frontend with react, backend with node express, and firmware with c++.
+I am a Full Stack Software-Firmware Developer passionate about bridging the gap between silicon and screens. My expertise is grounded in building robust firmware with C++ and creating seamless web experiences using React and Node.js/Express. I specialize in full-cycle development, ensuring that hardware logic integrates perfectly with intuitive front-end interfaces. Currently, I’m leveraging this stack to engineer three personal projects that challenge my skills in both embedded systems and web architecture.
 
 
 ## 🌐 Socials:
@@ -17,6 +17,11 @@ I'm currently working on 3 personal project. my strong suite is UI and frontend 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amirmsvi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 💼 Work Stats (amirmsvii)
+![](https://github-readme-stats.vercel.app/api?username=amirmsvii&theme=dark&hide_border=false&include_all_commits=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amirmsvi&icon=0&color=0)](https://visitcount.itsvg.in)
