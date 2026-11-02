@@ -29,14 +29,14 @@ I specialize in end-to-end AI engineering: turning raw data and machine learning
 
 # 📊 GitHub Stats
 ## 🏆 Personal Stats (amirmsvi)
-![](https://github-readme-stats.vercel.app/api?username=amirmsvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amirmsvi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmsvi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirmsvi&theme=github_dark)<br/>
+![](https://streak-stats.demolab.com/?user=amirmsvi&theme=dark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirmsvi&theme=github_dark)
 
 ## 💼 Work Stats (amirmsvii)
-![](https://github-readme-stats.vercel.app/api?username=amirmsvii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amirmsvii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmsvii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirmsvii&theme=github_dark)<br/>
+![](https://streak-stats.demolab.com/?user=amirmsvii&theme=dark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirmsvii&theme=github_dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amirmsvi&icon=0&color=0)](https://visitcount.itsvg.in)
